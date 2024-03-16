@@ -514,7 +514,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <2>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -525,7 +525,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <2>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -536,7 +536,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <1>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -547,7 +547,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <1>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -558,7 +558,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <1>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -569,7 +569,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <1>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -580,7 +580,7 @@
         qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
         qcom,mdss-dsi-bl-min-level = <1>;
         qcom,mdss-dsi-bl-max-level = <4095>;
-        qcom,mdss-brightness-max-level = <4095>;
+        qcom,mdss-brightness-max-level = <255>;
         qcom,mdss-brightness-init-level = <536>;
         qcom,platform-te-gpio = <&tlmm 66 0>;
         qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -591,7 +591,7 @@
         qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
         qcom,mdss-dsi-bl-min-level = <1>;
         qcom,mdss-dsi-bl-max-level = <4095>;
-        qcom,mdss-brightness-max-level = <4095>;
+        qcom,mdss-brightness-max-level = <255>;
         qcom,mdss-brightness-init-level = <536>;
         qcom,platform-te-gpio = <&tlmm 66 0>;
         qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -602,7 +602,7 @@
         qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
         qcom,mdss-dsi-bl-min-level = <1>;
         qcom,mdss-dsi-bl-max-level = <4095>;
-        qcom,mdss-brightness-max-level = <4095>;
+        qcom,mdss-brightness-max-level = <255>;
         qcom,mdss-brightness-init-level = <536>;
         qcom,platform-te-gpio = <&tlmm 66 0>;
         qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -613,7 +613,7 @@
         qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
         qcom,mdss-dsi-bl-min-level = <1>;
         qcom,mdss-dsi-bl-max-level = <2047>;
-        qcom,mdss-brightness-max-level = <2047>;
+        qcom,mdss-brightness-max-level = <255>;
         qcom,mdss-brightness-init-level = <536>;
         qcom,platform-te-gpio = <&tlmm 66 0>;
         qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -624,7 +624,7 @@
         qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
         qcom,mdss-dsi-bl-min-level = <1>;
         qcom,mdss-dsi-bl-max-level = <2047>;
-        qcom,mdss-brightness-max-level = <2047>;
+        qcom,mdss-brightness-max-level = <255>;
         qcom,mdss-brightness-init-level = <536>;
         qcom,platform-te-gpio = <&tlmm 66 0>;
         qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -635,7 +635,7 @@
         qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
         qcom,mdss-dsi-bl-min-level = <1>;
         qcom,mdss-dsi-bl-max-level = <2047>;
-        qcom,mdss-brightness-max-level = <2047>;
+        qcom,mdss-brightness-max-level = <255>;
         qcom,mdss-brightness-init-level = <536>;
         qcom,platform-te-gpio = <&tlmm 66 0>;
         qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -646,7 +646,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <2>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	/*
 	qcom,mdss-dsi-mode-sel-gpio-state = "single_port";
@@ -661,7 +661,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <2>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -672,7 +672,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
 	qcom,mdss-dsi-bl-min-level = <2>;
 	qcom,mdss-dsi-bl-max-level = <4095>;
-	qcom,mdss-brightness-max-level = <4095>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <410>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -683,7 +683,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
 	qcom,mdss-dsi-bl-min-level = <2>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <410>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 75 0>;
@@ -694,7 +694,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
 	qcom,mdss-dsi-bl-min-level = <2>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <410>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 75 0>;
@@ -705,7 +705,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <1>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -716,7 +716,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <1>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <536>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -727,7 +727,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_dcs";
 	qcom,mdss-dsi-bl-min-level = <1>;
 	qcom,mdss-dsi-bl-max-level = <4095>;
-	qcom,mdss-brightness-max-level = <4095>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <307>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 12 0>;
@@ -738,7 +738,7 @@
 	qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
 	qcom,mdss-dsi-bl-min-level = <2>;
 	qcom,mdss-dsi-bl-max-level = <2047>;
-	qcom,mdss-brightness-max-level = <2047>;
+	qcom,mdss-brightness-max-level = <255>;
 	qcom,mdss-brightness-init-level = <307>;
 	qcom,platform-te-gpio = <&tlmm 66 0>;
 	qcom,platform-reset-gpio = <&tlmm 75 0>;

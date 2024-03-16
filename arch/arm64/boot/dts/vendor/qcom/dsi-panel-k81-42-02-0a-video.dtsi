@@ -36,7 +36,7 @@
 		qcom,mdss-dsi-lane-1-state;
 		qcom,mdss-dsi-lane-2-state;
 		qcom,mdss-dsi-interleave-mode = <0>;
-		qcom,mdss-brightness-max-level = <2047>;
+		qcom,mdss-brightness-max-level = <255>;
 		mi,mdss-dsi-panel-max-brightness-clone = <4095>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
